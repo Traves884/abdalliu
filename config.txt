@@ -1,0 +1,5 @@
+token=NjE4NDczNzUxODU1NzU5MzYy.XW70bQ.4i6qbVsU0kKqMQyj3FjrGsQ3Yn0
+owner=328311373648101378
+prefix=m
+game=playingType | MPS Clan
+stayinchannel=true
